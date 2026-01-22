@@ -33,6 +33,20 @@ const socialLinks = [
     href: "https://huggingface.co/Amar206",
     description: "View my AI models and demos",
   },
+  {
+    icon: ExternalLink,
+    label: "LinkedIn",
+    value: "linkedin.com/in/amarnath-pandey2006",
+    href: "https://www.linkedin.com/in/amarnath-pandey2006",
+    description: "Connect with me professionally",
+  },
+  {
+    icon: ExternalLink,
+    label: "Instagram",
+    value: "instagram.com/amar_pandey206",
+    href: "https://www.instagram.com/amar_pandey206",
+    description: "Follow my personal updates",
+  },
 ];
 
 const ContactSection = () => {
