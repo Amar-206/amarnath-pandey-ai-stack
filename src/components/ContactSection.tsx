@@ -7,8 +7,8 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "amarnath.pandey@email.com",
-    href: "mailto:amarnath.pandey@email.com",
+    value: "apandey.tech@gmail.com",
+    href: "mailto:apandey.tech@gmail.com",
   },
   {
     icon: MapPin,
@@ -173,7 +173,7 @@ const ContactSection = () => {
                   Interested in working together? Let's talk!
                 </p>
                 <a
-                  href="mailto:amarnath.pandey@email.com"
+                  href="mailto:apandey.tech@gmail.com"
                   className="btn-neon inline-flex items-center gap-2"
                 >
                   <Send size={18} />
